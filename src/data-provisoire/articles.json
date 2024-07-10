@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "La révolution numérique",
+    "subtitle": "Comment la technologie transforme notre quotidien",
+    "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, sunt sint deleniti perspiciatis at, molestiae ab laboriosam eaque reiciendis officia consectetur dicta! Similique magni commodi omnis aperiam quo itaque perspiciatis dolores, facilis, obcaecati harum impedit dolore reprehenderit beatae ipsum repellendus doloremque in alias temporibus accusamus. In ex quibusdam velit. Vitae rerum necessitatibus cum. Natus velit molestiae, modi veniam accusantium perferendis quas in voluptate nihil inventore impedit. Veritatis alias temporibus fugit eligendi eius dolore eaque ea delectus, eos repudiandae culpa aspernatur corporis! Delectus tempore, ut laboriosam sed quis autem adipisci reiciendis eveniet minus sint dignissimos ab iusto quia optio repellat unde ratione cupiditate accusantium dicta inventore! Qui fuga, alias voluptatum rerum tempore commodi, at debitis ratione non provident suscipit deleniti error aspernatur dolores. Nostrum voluptatem architecto hic nisi sapiente quibusdam ea mollitia placeat facere doloremque omnis quos enim porro quia perferendis provident corrupti exercitationem libero veniam, expedita unde quidem quis itaque aut? Consectetur, eos nesciunt, sequi minima maxime sapiente aliquid fuga nulla earum quia sit molestias aut. Quae quibusdam aliquid sit officiis voluptatem facilis repellat deserunt tenetur delectus perferendis? Neque est velit facere voluptates doloribus quia perferendis error officiis atque corporis sit, in suscipit, optio voluptatibus quaerat blanditiis doloremque eaque illum nemo, sapiente quidem dolores fuga? Eos ab aliquam, error ipsum adipisci exercitationem ratione alias facilis? Recusandae aspernatur autem, iure saepe voluptate itaque aliquid sapiente, facilis voluptatum necessitatibus veritatis est eveniet praesentium eaque distinctio similique exercitationem! Odio facilis recusandae alias sequi eveniet magnam nam, eos, dicta vel nemo necessitatibus, asperiores ipsum eius officia quibusdam saepe! Quae, cum quibusdam rerum aperiam magnam, repudiandae vel maxime quidem, aut voluptas exercitationem earum. Ipsum, repellat earum modi, quis odio qui fugit obcaecati praesentium mollitia quam recusandae consectetur ratione eaque corrupti iusto, vero natus sequi nobis. Architecto illum quas officia delectus! Sapiente nobis quos repellendus mollitia nostrum cumque repellat nam magnam sint expedita soluta rerum tenetur voluptatem assumenda, ullam, explicabo exercitationem veritatis doloribus suscipit minus neque obcaecati. Incidunt minus est magni similique soluta hic dolor deleniti praesentium aperiam tempora esse accusantium iure cumque dolorum atque assumenda, expedita laboriosam dignissimos sequi ad! Corporis vel similique veritatis velit voluptas totam ad beatae suscipit aliquam error, placeat expedita impedit enim eum corrupti voluptates quasi dolore excepturi consectetur reprehenderit quam inventore quis magnam. Quam sed, soluta ipsam incidunt quo excepturi deserunt ab asperiores suscipit dolorem temporibus cum totam id molestiae quibusdam iste expedita officia voluptate in? Expedita totam est ut, repellendus itaque quibusdam aspernatur nostrum optio fuga aut inventore animi officiis, mollitia nemo odio, iusto eligendi sequi accusantium? Illo cumque exercitationem commodi rerum quas assumenda, ipsum veniam sunt et voluptate eligendi, incidunt unde, ratione corporis dolore eveniet obcaecati placeat id amet quasi. Doloremque commodi, illum ab possimus sit tempore laborum sint exercitationem facere ipsum, consequuntur natus hic nemo. Minus quaerat, tenetur, dolorum minima cupiditate quisquam obcaecati placeat explicabo qui voluptatum vel repellendus dolore magni deleniti possimus inventore nam doloremque aliquam rerum consectetur itaque? Iure magni numquam officia commodi recusandae amet tenetur nesciunt totam vel accusantium inventore, facilis suscipit ab veniam!",
+    "category": "Réunions",
+    "illustration": "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p23196420_b_h8_aa.jpg?auto=webp&ver=1&auto=webp&ver=1&width=630",
+    "author": "Jean Dupont",
+    "date": "08/07/2024",
+    "comments" : [
+      { "id": 1, "userId": 1, "articleId": 1, "text": "Ceci est le commentaire n°1" },
+      { "id": 2, "userId": 2, "articleId": 1, "text": "Ceci est le commentaire n°2 qu'on va rallonger un peu pour voir le comportement que prendra la card si un untilisateur décide d'écrire un pavé haha bien t'as vu allezà la prochaine j'ai une tortilla à préparer bisou je m'envole" }
+    ],
+    "likes": [
+      { "id": 1, "userId": 101, "articleId": 1 },
+      { "id": 2, "userId": 102, "articleId": 1 },
+      { "id": 3, "userId": 103, "articleId": 1 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Les bienfaits de la méditation",
+    "body": "La méditation est une pratique ancienne qui gagne en popularité dans le monde moderne. Elle offre de nombreux bienfaits pour la santé mentale et physique, y compris la réduction du stress, l'amélioration de la concentration et une meilleure gestion des émotions. En méditant régulièrement, les individus peuvent développer une plus grande conscience de soi et un sentiment de paix intérieure. Il existe de nombreuses formes de méditation, allant de la pleine conscience à la méditation transcendantale, ce qui permet à chacun de trouver la pratique qui lui convient le mieux.",
+    "category": "Tournois",
+    "illustration": "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p23196420_b_h8_aa.jpg?auto=webp&ver=1&auto=webp&ver=1&width=630",
+    "author": "Marie Legrand",
+    "date": "08/07/2024",
+    "comments" : [
+      { "id": 1, "userId": 1, "articleId": 1, "text": "Ceci est le commentaire n°1" },
+      { "id": 2, "userId": 2, "articleId": 1, "text": "Ceci est le commentaire n°2 qu'on va rallonger un peu pour voir le comportement que prendra la card si un untilisateur décide d'écrire un pavé haha bien t'as vu allezà la prochaine j'ai une tortilla à préparer bisou je m'envole" }],
+    "likes": [
+      { "id": 4, "userId": 101, "articleId": 2 },
+      { "id": 5, "userId": 102, "articleId": 2 },
+      { "id": 6, "userId": 103, "articleId": 2 },
+      { "id": 7, "userId": 104, "articleId": 2 },
+      { "id": 8, "userId": 105, "articleId": 2 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Découvrir les merveilles de la cuisine française Découvrir les merveilles de la cuisine française Découvrir les merveilles de la cuisine française Découvrir les merveilles de la cuisine française Découvrir les merveilles de la cuisine française",
+    "subtitle": "Un voyage gastronomique à travers les régions",
+    "body": "La cuisine française est réputée dans le monde entier pour sa richesse et sa diversité. Chaque région de France offre des spécialités uniques, des crêpes bretonnes aux bouillabaisses marseillaises. La gastronomie française ne se limite pas aux plats raffinés; elle inclut également des mets simples mais délicieux comme la baguette et le fromage. Ce voyage culinaire permet de découvrir des traditions et des savoir-faire ancestraux. En explorant les marchés locaux et en visitant les restaurants traditionnels, on peut véritablement apprécier l'art de vivre à la française.",
+    "category": "Évènements",
+    "illustration": "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p23196420_b_h8_aa.jpg?auto=webp&ver=1&auto=webp&ver=1&width=630",
+    "author": "Lucie Martin",
+    "date": "08/07/2024",
+    "comments" : [],
+    "likes": [
+    ]
+  },
+  {
+    "id": 4,
+    "title": "L'importance de l'éducation environnementale",
+    "body": "L'éducation environnementale est essentielle pour sensibiliser les générations futures aux défis écologiques. Elle vise à inculquer des valeurs de respect et de préservation de la nature dès le plus jeune âge. En comprenant les impacts de nos actions sur l'environnement, les enfants et les adolescents peuvent adopter des comportements plus durables. Les programmes éducatifs incluent des activités pratiques comme le jardinage, le recyclage et les sorties en nature, qui permettent aux élèves de se reconnecter avec leur environnement.",
+    "category": "Divers",
+    "illustration": "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p23196420_b_h8_aa.jpg?auto=webp&ver=1&auto=webp&ver=1&width=630",
+    "author": "Sophie Durand",
+    "date": "08/07/2024",
+    "comments" : [],
+    "likes": [
+      { "id": 9, "userId": 101, "articleId": 4 },
+      { "id": 10, "userId": 102, "articleId": 4 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Les enjeux de la mobilité urbaine",
+    "subtitle": "Vers des villes plus durables",
+    "body": "La mobilité urbaine est un enjeu majeur pour les villes modernes. Avec l'augmentation de la population urbaine, les infrastructures de transport doivent s'adapter pour offrir des solutions efficaces et écologiques. Les villes cherchent à promouvoir les modes de transport durables comme le vélo, la marche et les transports en commun. L'objectif est de réduire les embouteillages, la pollution de l'air et les émissions de gaz à effet de serre. Les innovations technologiques, telles que les véhicules électriques et les systèmes de partage de vélos, jouent un rôle clé dans cette transformation.",
+    "category": "Divers",
+    "illustration": "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p23196420_b_h8_aa.jpg?auto=webp&ver=1&auto=webp&ver=1&width=630",
+    "author": "Paul Lambert",
+    "date": "08/07/2024",
+    "comments" : [],
+    "likes": [
+      { "id": 11, "userId": 101, "articleId": 5 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "L'évolution du marché du travail",
+    "body": "Le marché du travail a connu des changements significatifs ces dernières décennies, influencés par la mondialisation et les avancées technologiques. Les entreprises recherchent de plus en plus des compétences spécifiques, telles que la maîtrise des outils numériques et la capacité à travailler de manière flexible. Le télétravail est devenu une norme pour beaucoup, offrant des avantages en termes de flexibilité et de qualité de vie. Cependant, ces évolutions posent également des défis, notamment en termes de formation continue et de sécurité de l'emploi. Il est crucial pour les travailleurs de s'adapter en développant de nouvelles compétences et en se tenant informés des tendances du marché.",
+    "category": "Réunions",
+    "author": "Emma Leroy",
+    "date": "08/07/2024",
+    "comments" : [],
+    "likes": [
+      { "id": 12, "userId": 101, "articleId": 6 },
+      { "id": 13, "userId": 102, "articleId": 6 },
+      { "id": 14, "userId": 103, "articleId": 6 },
+      { "id": 15, "userId": 104, "articleId": 6 },
+      { "id": 16, "userId": 105, "articleId": 6 },
+      { "id": 17, "userId": 106, "articleId": 6 }
+    ]
+  }
+]
