@@ -1,0 +1,7 @@
+.alertBox > :first-child {
+  margin-right: 0;
+}
+
+#cardTournament button{
+  padding: 0.5rem !important;
+}
